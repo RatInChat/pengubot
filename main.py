@@ -648,6 +648,6 @@ async def main():
       for file in os.listdir("./cogs"):
           if file.endswith(".py") and not file.startswith("_"):
               await client.load_extension(f"cogs.{file[:-3]}")
-      await client.start("OTY0OTkzNjcxNTEyNjA4ODA4.YlsuZA.TBgCH_PZhq8eBrXIE7nandvBeQQ")
+      await client.start("Not a token")
 if __name__ == '__main__':
     asyncio.get_event_loop().run_until_complete(main())
