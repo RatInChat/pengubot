@@ -1,4 +1,6 @@
 # pengubot
-Public code of pengubot
+Public code of old pengubot
 
 yay
+
+(NOTE THIS IS SUPER OUTDATED! THE NEW VERSION OF THE BOT LOOKS NOTHING LIKE THIS!)
